@@ -1,0 +1,2 @@
+* Description
+The code in this Julia module is from the [[http://www.ucl.ac.uk/~ucecesf/niobook/index.html][book]] on using [[http://julialang.org][Julia]] for nature inspired optimization methods for process systems engineering.
