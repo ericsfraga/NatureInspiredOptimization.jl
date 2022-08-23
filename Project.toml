@@ -1,7 +1,7 @@
 name = "NatureInspiredOptimization"
 uuid = "8027fc3b-3b57-42c8-bbd2-75f0210cbcdc"
 authors = ["Eric S Fraga <e.fraga@ucl.ac.uk>"]
-version = "0.7.13"
+version = "0.8.0"
 
 [deps]
 DifferentialEquations = "0c46a032-eb83-5123-abaf-570d42b7fbaa"
