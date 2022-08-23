@@ -1,4 +1,10 @@
 * Description
 The code in this Julia module is from the [[http://www.ucl.ac.uk/~ucecesf/niobook/index.html][book]] on using [[http://julialang.org][Julia]] for nature inspired optimization methods for process systems engineering.
 
-https://zenodo.org/badge/doi/10.5281/zenodo.7016482.svg
+If the code is used for published research, please cite as
+
+#+begin_quote
+Eric S. Fraga (2022), /Nature inspired methods for optimization: A Julia primer for process engineering/, doi:zenodo.7016482.
+#+end_quote
+
+[[https://zenodo.org/badge/doi/10.5281/zenodo.7016482.svg]]
