@@ -5,5 +5,4 @@ version = "0.8.0"
 
 [deps]
 DifferentialEquations = "0c46a032-eb83-5123-abaf-570d42b7fbaa"
-Jacaranda = "b2239196-abc1-447d-828b-7f5fd54e87f6"
 Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
